@@ -1,0 +1,14 @@
+<students>
+	<student number="23" >
+		<name> John Carter </name>
+		<date> 25/12/2015 </date>
+	</student>
+	<student  number="29" xyz="a">
+		<name> Bob Marshal </name>
+		<date> 13/01/1999 </date>
+	</student>
+	<student number="35">
+		<name> Clark Kent </name>
+		<date> 17/06/2005 </date>
+	</student>
+</students>
