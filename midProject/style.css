@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'poppins',sans-serif;
+}
+body{
+    background-color: #efefef;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #90ee90;
+}
+.nav-left,.nav-right{
+    display: flex;
+    align-items: center;
+}
+.nav-left ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+.search-box{
+    background: #efefef;
+    width: 350pxs;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    
+}
